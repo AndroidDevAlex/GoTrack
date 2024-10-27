@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-[Screenshot 1](screenshots/1.jpg)
+[Screenshot 1](screenshortsApp/sign_in.png)
 
 <p float="left">
   <img alt="Sign in" src="screenshorts/screenshortsApp/sign_in.png" width="250">
