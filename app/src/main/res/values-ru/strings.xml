@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoTrack</string>
+    <string name="no_internet_connection"> Нет подключения к Интернету</string>
+</resources>

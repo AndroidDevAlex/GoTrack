@@ -1,0 +1,7 @@
+<resources>
+    <string name="settings">Settings</string>
+    <string name="activate_gps_in_the_settings_to_use_this_feature">Activate GPS in the settings to use this feature</string>
+    <string name="cancel">Cancel</string>
+    <string name="Notification_settings_are_available">Notification are available</string>
+    <string name="Notification_settings_are_not_available">Notification are not available</string>
+</resources>

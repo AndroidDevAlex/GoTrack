@@ -1,0 +1,5 @@
+<resources>
+    <string name="go_to_map">Перейти на карту</string>
+    <string name="go_to_track">Отслеживание</string>
+    <string name="no_internet">Нет интернета</string>
+</resources>

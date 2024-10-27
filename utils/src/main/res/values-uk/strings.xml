@@ -1,0 +1,7 @@
+<resources>
+    <string name="settings">Налаштування</string>
+    <string name="activate_gps_in_the_settings_to_use_this_feature">Активуйте GPS у налаштуваннях, щоб скористатися цією функцією</string>
+    <string name="cancel">Скасувати</string>
+    <string name="Notification_settings_are_available">Сповіщення доступні</string>
+    <string name="Notification_settings_are_not_available">Сповіщення недоступні</string>
+</resources>

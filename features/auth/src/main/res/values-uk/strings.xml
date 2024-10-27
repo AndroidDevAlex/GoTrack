@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="email">пошта</string>
+    <string name="password">пароль</string>
+    <string name="sign_in">Увійти</string>
+    <string name="sign_up">Зареєструватися</string>
+    <string name="don_t_have_an_account">Ще не зареєстровані?</string>
+    <string name="email_and_password_fields_are_empty">Поля електронної пошти та пароля пусті</string>
+    <string name="invalid_email_or_password">Неправильна електронна пошта або пароль</string>
+    <string name="registration_are_successful">Реєстрація успішна</string>
+    <string name="registration_failed">Реєстрація не вдалася</string>
+    <string name="user_in_the_system">Користувач у системі</string>
+    <string name="user_not_registered_please_register">Користувач не зареєстрований, будь ласка, зареєструйтеся</string>
+    <string name="error_occurred">Сталася помилка</string>
+    <string name="email_already_exists">Електронна пошта вже існує</string>
+    <string name="invalid_password">Неправильний пароль</string>
+    <string name="no_internet">Немає інтернету</string>
+    <string name="fields_can_not_be_empty">Поля не можуть бути порожніми</string>
+    <string name="all_fields_must_be_completed">Усі поля повинні бути заповнені</string>
+    <string name="invalid_email">Неправильна електронна пошта</string>
+    <string name="passwords_do_not_match">Паролі не збігаються</string>
+    <string name="welcome">Вітаємо вас!</string>
+    <string name="registration">Регістрація</string>
+    <string name="repeat_password">повторіть пароль</string>
+    <string name="create_account">Створити акаунт</string>
+</resources>
