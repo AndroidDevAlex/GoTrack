@@ -1,0 +1,5 @@
+<resources>
+    <string name="turn_on_the_internet">No internet connection, go to the settings and enable internet</string>
+    <string name="no_available_coordinates">No available coordinates.</string>
+    <string name="error_occurred">Error occurred</string>
+</resources>

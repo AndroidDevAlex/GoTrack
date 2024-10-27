@@ -1,0 +1,5 @@
+<resources>
+    <string name="turn_on_the_internet">Нет подключения к интернету, перейдите в настройки и включите интернет</string>
+    <string name="no_available_coordinates">Нет доступных координат</string>
+    <string name="error_occurred">Произошла ошибка</string>
+</resources>

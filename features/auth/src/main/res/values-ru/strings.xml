@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="email">почта</string>
+    <string name="password">пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="don_t_have_an_account">Нет учетной записи?</string>
+    <string name="email_and_password_fields_are_empty">Поля электронной почты и пароля пусты</string>
+    <string name="invalid_email_or_password">Неверная электронная почта или пароль</string>
+    <string name="registration_are_successful">Регистрация успешна</string>
+    <string name="registration_failed">Регистрация не удалась</string>
+    <string name="user_in_the_system">Пользователь в системе</string>
+    <string name="user_not_registered_please_register">Пользователь не зарегистрирован, пожалуйста, зарегистрируйтесь</string>
+    <string name="error_occurred">Произошла ошибка</string>
+    <string name="email_already_exists">Электронная почта уже существует</string>
+    <string name="invalid_password">Неверный пароль</string>
+    <string name="no_internet">Нет интернета</string>
+    <string name="fields_can_not_be_empty">Поля не могут быть пустыми</string>
+    <string name="all_fields_must_be_completed">Все поля должны быть заполнены</string>
+    <string name="invalid_email">Неверная электронная почта</string>
+    <string name="passwords_do_not_match">Пароли не совпадают</string>
+    <string name="welcome">Приветствуем вас!</string>
+    <string name="registration">Регистрация</string>
+    <string name="repeat_password">повторите пароль</string>
+    <string name="create_account">Создать аккаунт</string>
+</resources>

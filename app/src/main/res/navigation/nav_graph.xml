@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_navigation"
+    app:startDestination="@id/authFragment">
+
+    <fragment
+        android:id="@+id/authFragment"
+        android:name="com.example.auth.presentation.AuthFragment"
+        android:label="AuthFragment"
+        tools:layout="@layout/fragment_auth">
+
+        <action
+            android:id="@+id/action_authFragment_to_signUpFragment"
+            app:destination="@id/signUpFragment" />
+        <action
+            android:id="@+id/action_authFragment_to_optionsFragment"
+            app:destination="@id/optionsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/optionsFragment"
+        android:name="com.example.intermediate.presentation.ActionFragment"
+        android:label="OptionsFragment"
+        tools:layout="@layout/fragment_options">
+
+        <action
+            android:id="@+id/action_optionsFragment_to_trackerFragment"
+            app:destination="@id/trackerFragment" />
+        <action
+            android:id="@+id/action_optionsFragment_to_mapFragment"
+            app:destination="@id/mapFragment" />
+        <action
+            android:id="@+id/action_optionsFragment_to_settingsApplicationFragment"
+            app:destination="@id/settingsApplicationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/trackerFragment"
+        android:name="com.example.tracker.presentation.TrackerFragment"
+        android:label="TrackerFragment"
+        tools:layout="@layout/fragment_tracker">
+
+        <action
+            android:id="@+id/action_trackerFragment_to_authFragment"
+            app:destination="@id/authFragment"
+            app:popUpTo="@id/authFragment"
+            app:popUpToInclusive="false"/>
+    </fragment>
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.example.map.presentation.MapFragment"
+        android:label="MapFragment"
+        tools:layout="@layout/fragment_map">
+
+        <action
+            android:id="@+id/action_mapFragment_to_authFragment"
+            app:destination="@id/authFragment"
+            app:popUpTo="@id/authFragment"
+            app:popUpToInclusive="false"/>
+    </fragment>
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="com.example.auth.presentation.SignUpFragment"
+        android:label="SignUpFragment"
+        tools:layout="@layout/fragment_sign_up">
+        <action
+            android:id="@+id/action_signUpFragment_to_optionsFragment"
+            app:destination="@id/optionsFragment"
+            app:popUpTo="@id/authFragment"
+            app:popUpToInclusive="false"/>
+    </fragment>
+    <fragment
+        android:id="@+id/settingsApplicationFragment"
+        android:name="com.example.settingsapplication.presentation.SettingsApplicationFragment"
+        android:label="SettingsApplicationFragment"
+        tools:layout="@layout/fragment_settings_application"/>
+
+
+</navigation>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="turn_on_the_internet">Немає підключення до Інтернету, перейдіть до налаштувань і увімкніть Інтернет</string>
+    <string name="no_available_coordinates">Немає доступних координат</string>
+    <string name="error_occurred">Сталася помилка</string>
+</resources>

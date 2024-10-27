@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="main_screen_padding">15dp</dimen>
+    <dimen name="image_width">70dp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="margin">5dp</dimen>
+    <dimen name="margin_start">12dp</dimen>
+    <dimen name="margin_end">6dp</dimen>
+    <dimen name="padding">7dp</dimen>
+    <dimen name="padding_top">10dp</dimen>
+    <dimen name="padding_vertical">5dp</dimen>
+    <dimen name="padding_layout">10dp</dimen>
+    <dimen name="layout_height">100dp</dimen>
+    <dimen name="layout_margin_top">10dp</dimen>
+    <dimen name="layout_weight">1</dimen>
+    <dimen name="layout_width">28dp</dimen>
+    <dimen name="layout_width_image">26dp</dimen>
+    <dimen name="layout_height_image">28dp</dimen>
+    <dimen name="layout_height_image_view">26dp</dimen>
+
+    <!--Card-->
+    <dimen name="default_card_corner_radius">12dp</dimen>
+    <dimen name="default_card_padding">10dp</dimen>
+    <dimen name="layout_margin">15dp</dimen>
+
+    <!--Text-->
+    <dimen name="simple_text_size">16sp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="text_size_dialog">16sp</dimen>
+    <dimen name="text">27sp</dimen>
+
+</resources>

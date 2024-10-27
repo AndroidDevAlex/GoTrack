@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top">110dp</dimen>
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="margin_end">30dp</dimen>
+    <dimen name="vertical_bias">0.0</dimen>
+    <dimen name="vertical_bias_">0.2</dimen>
+    <dimen name="vertical_bias_sign_in">0.5</dimen>
+    <dimen name="width_percent">0.2</dimen>
+    <dimen name="width_percent_accaunt">0.6</dimen>
+    <dimen name="width_percent_">0.5</dimen>
+    <dimen name="horizontal_bias">0.5</dimen>
+    <dimen name="horizontal_bias_">0.9</dimen>
+    <dimen name="layout_width">0dp</dimen>
+    <dimen name="layout_height">0dp</dimen>
+    <dimen name="large_space">30dp</dimen>
+    <dimen name="medium_space">12dp</dimen>
+    <dimen name="text_size_title">45sp</dimen>
+    <dimen name="margin_top_title">32dp</dimen>
+    <dimen name="padding">20dp</dimen>
+</resources>

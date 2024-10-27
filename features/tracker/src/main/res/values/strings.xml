@@ -1,0 +1,17 @@
+<resources>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="the_user_did_not_grant_both_permissions">The user did not grant both permissions</string>
+    <string name="gps_is_off">GPS is Off</string>
+    <string name="gps_is_on">GPS is ON</string>
+    <string name="tracking">Tracker is ON</string>
+    <string name="search_location">Search location</string>
+    <string name="back">Back</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="tracking_your_location">Tracking your location…</string>
+    <string name="stopped_tracking">No internet connection.\n Tracking is Inactive.</string>
+    <string name="tracker_is_running">Tracker is running…</string>
+    <string name="tracker_is_of">Tracker is Of</string>
+    <string name="no_internet">No internet</string>
+    <string name="logout">Logout</string>
+</resources>

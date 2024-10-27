@@ -1,0 +1,8 @@
+<resources>
+    <string name="settings">Настройки</string>
+    <string name="interface_language_settings">Язык интерфейса</string>
+    <string name="change_the_language">Выберите нужный вам язык</string>
+    <string name="language_english">Английский</string>
+    <string name="language_ukrainian">Украинский</string>
+    <string name="language_russian">Русский</string>
+</resources>

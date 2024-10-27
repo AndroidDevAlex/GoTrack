@@ -1,0 +1,17 @@
+<resources>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="the_user_did_not_grant_both_permissions">Пользователь не предоставил оба разрешения</string>
+    <string name="gps_is_off">GPS выключен</string>
+    <string name="gps_is_on">GPS включен</string>
+    <string name="tracking">Трекер включен</string>
+    <string name="search_location">Поиск местоположения</string>
+    <string name="back">Назад</string>
+    <string name="no_internet_connection">Нет подключения к интернету</string>
+    <string name="tracking_your_location">Идет отслеживание местоположения…</string>
+    <string name="stopped_tracking">Нет подключения к интернету.\n Отслеживание не активно</string>
+    <string name="tracker_is_running">Трекер активен…</string>
+    <string name="tracker_is_of">Трекер выключен</string>
+    <string name="no_internet">Нет интернета</string>
+    <string name="logout">Выйти</string>
+</resources>
