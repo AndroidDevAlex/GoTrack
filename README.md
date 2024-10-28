@@ -1,6 +1,6 @@
 # GoTrack
 
-Is an Android application that allows you to track locations and send them to a Firebase/Cloud Firestore server. The app also displays collected locations of authenticated users on a map.
+This application enables users to track and filter their real-time location coordinates. With integrated mapping services, users can view their movement data on an interactive map. The app supports Firebase authentication, providing secure access and data storage. Users can save and retrieve their coordinates through Cloud Firestore.
 
 ## Technology Stack
 
