@@ -18,7 +18,7 @@ This application enables users to track and filter their real-time location coor
 
 ### Authentication
 | ![Screenshot 1](screenshots/sign_in.png)  | ![Screenshot 2](screenshots/sign_up.png)          |                                                |
-|:-----------------------------------------:|:-------------------------------------------------:|:-----------------------------------------:     |
+|:-----------------------------------------:|:-------------------------------------------------:|:----------------------------------------------:|
 ### Main Dashboard
 | ![Screenshot 3](screenshots/action.png)   | ![Screenshot 4](screenshots/settings.png)         | ![Screenshot 4](screenshots/auth.png)          |                                    
 ### Tracking
