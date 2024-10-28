@@ -26,3 +26,4 @@ Is an Android application that allows you to track locations and send them to a 
 - **Location tracking**: Track your location in real-time and send it to the server.
 - **Map display**: View collected locations of authenticated users on a map.
 - **Firebase integration**: Store and retrieve location data using Firebase/Cloud Firestore.
+- **Firebase Authentication**: User authentication and registration are managed using Firebase Auth, allowing users to create accounts and sign in securely.
